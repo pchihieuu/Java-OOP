@@ -1,1 +1,1 @@
-# -Rectangle.code
+# -Student.code
